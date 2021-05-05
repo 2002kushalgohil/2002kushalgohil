@@ -2,7 +2,7 @@
 
 ## I'm a Student, Who is passionate about programming and Web Development!!
 
-- 🌱 I’m currently learning React Js , Node Js , MongoDB 
+- 🌱 I’m currently learning [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][redirect], Node Js , MongoDB 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: to learn new technologies as soon as possible
 - ⚡ Fun fact: I love making Music and Beatboxing 
