@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React Js , Node Js , MongoDB 
 - 👯 Contact me : 2002kushalgohil@gmail.com
-- 🥅 2021 Goals: to learn new technologies as soon as possible
+- 🥅 My Goal: of course to be like Tony Stark 😂
 - ⚡ Fun fact: I love making Music and Beatboxing 
 
 ### Connect with me:
