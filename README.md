@@ -1,6 +1,6 @@
 ### Hi there, I'm Kushal - aka [Kush][website] 👋
 
-## I'm a Student, Who is passionate about programming and Web Development!!
+## I'm a Student, Who is passionate about programming !
 
 - 🌱 I’m currently learning React Js , Node Js , MongoDB 
 - 👯 Contact me : 2002kushalgohil@gmail.com
