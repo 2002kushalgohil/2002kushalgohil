@@ -3,7 +3,7 @@
 ## I'm a Student, Who is passionate about programming and Web Development!!
 
 - 🌱 I’m currently learning React Js , Node Js , MongoDB 
-- 👯 I’m looking to collaborate with other content creatorss
+- 👯 Contact me : 2002kushalgohil@gmail.com
 - 🥅 2021 Goals: to learn new technologies as soon as possible
 - ⚡ Fun fact: I love making Music and Beatboxing 
 
