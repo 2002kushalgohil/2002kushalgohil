@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kushal-gohil-12538a211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="kushal-gohil-12538a211" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15843361/kushal-gohil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15843361/kushal-gohil" height="30" width="40" /></a>
-<a href="https://instagram.com/kushal_gohil__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="kushal_gohil__" height="30" width="40" /></a>
+<a href="https://instagram.com/kushal_gohil__" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/25/25320.svg?token=exp=1620223685~hmac=5887fbca1a28df2e39dba29cb82b6716" alt="kushal_gohil__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
