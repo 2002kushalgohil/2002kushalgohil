@@ -43,7 +43,7 @@
 
 
 
-[website]: https://codeSTACKr.com
+[website]: https://kushalportfolio.netlify.app/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
