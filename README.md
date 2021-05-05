@@ -2,7 +2,6 @@
 
 ## I'm a Student, Who is passionate about programming and Web Development!!
 
-- 🔭 I just launched my first course
 - 🌱 I’m currently learning React Js , Node Js , MongoDB 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: to learn new technologies as soon as possible
