@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning React Js , Node Js , MongoDB 
 - 👯 I’m looking to collaborate with other content creatorss
-- 🔎 Contact me : 2002kushalgohil@gmail.com
 - 🥅 2021 Goals: to learn new technologies as soon as possible
 - ⚡ Fun fact: I love making Music and Beatboxing 
 
@@ -29,8 +28,10 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][redirect]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][redirect]
 
+
 <br />
 <br />
+
 [website]: https://kushalportfolio.netlify.app
 [twitter]: https://twitter.com/codeSTACKr
 [instagram]: https://www.instagram.com/kushal_gohil__
