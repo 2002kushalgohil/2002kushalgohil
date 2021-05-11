@@ -32,7 +32,7 @@
 <br />
 <br />
 
-[website]: https://kushalportfolio.netlify.app
+[website]: https://kushalg.netlify.app/
 [twitter]: https://twitter.com/codeSTACKr
 [instagram]: https://www.instagram.com/kushal_gohil__
 [linkedin]: https://www.linkedin.com/in/kushal-gohil-12538a211
