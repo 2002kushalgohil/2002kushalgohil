@@ -32,8 +32,7 @@
 <br />
 <br />
 
-[website]: 
-[twitter]: https://twitter.com/codeSTACKr
+[website]: https://github.com/2002kushalgohil
 [instagram]: https://www.instagram.com/kushal_gohil__
 [linkedin]: https://www.linkedin.com/in/kushal-gohil-12538a211
 [redirect]: https://github.com/2002kushalgohil
