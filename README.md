@@ -33,6 +33,6 @@
 <br />
 
 [website]: https://github.com/2002kushalgohil
-[instagram]: https://www.instagram.com/kushal_gohil__
+[instagram]: https://www.instagram.com/kushal_gohil_
 [linkedin]: https://www.linkedin.com/in/kushal-gohil-12538a211
 [redirect]: https://github.com/2002kushalgohil
