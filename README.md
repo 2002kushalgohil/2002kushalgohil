@@ -31,7 +31,7 @@
 <br />
 <br />
 
-[website]: https://github.com/2002kushalgohil
+[website]: https://kushalgohil.netlify.app/
 [instagram]: https://www.instagram.com/kushal_gohil_
 [linkedin]: https://www.linkedin.com/in/kushal-gohil-12538a211
 [redirect]: https://github.com/2002kushalgohil
