@@ -43,5 +43,5 @@
 
 [website]: https://kushalgohil.netlify.app/
 [instagram]: https://www.instagram.com/kushal_gohil_
-[linkedin]: https://www.linkedin.com/in/kushal-gohil-12538a211
+[linkedin]: https://www.linkedin.com/in/2002kushalgohil/
 [redirect]: https://github.com/2002kushalgohil
