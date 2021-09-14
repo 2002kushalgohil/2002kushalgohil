@@ -36,6 +36,7 @@
 
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][redirect]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2002kushalgohil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br />
