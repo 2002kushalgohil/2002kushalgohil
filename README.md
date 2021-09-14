@@ -40,7 +40,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2002kushalgohil&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2002kushalgohil&layout=compact)
 
 [website]: https://kushalgohil.netlify.app/
 [instagram]: https://www.instagram.com/kushal_gohil_
