@@ -2,7 +2,7 @@
 
 ## I'm a Student, Who is passionate about programming !
 
-- 🌱 I’m currently learning MERN stack
+- 🌱 MERN stack Developer
 - 👯 Contact me : 2002kushalgohil@gmail.com
 - 🥅 My Goal: of course to be like Tony Stark 😂
 - ⚡ Fun fact: I love making Music and Beatboxing 
