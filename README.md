@@ -2,9 +2,9 @@
 
 ## I'm a Student, Who is passionate about programming !
 
-- 🌱 MERN stack Developer
+- 🌱 Full-Stack Developer
 - 👯 Contact me : 2002kushalgohil@gmail.com
-- 🥅 My Goal: of course to be like Tony Stark 😂
+- 🥅 My Goal: Of course to be like Tony Stark 😂
 - ⚡ Fun fact: I love making Music and Beatboxing 
 
 ### Connect with me:
