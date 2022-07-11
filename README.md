@@ -1,6 +1,6 @@
 ### Hi there, I'm Kushal - aka [Kush][website] 👋
 
-## I'm a Student, Who is passionate about programming !
+## I'm a Full-stack developer, Who is passionate about programming !
 
 - 🌱 Full-Stack Developer
 - 👯 Contact me : 2002kushalgohil@gmail.com
