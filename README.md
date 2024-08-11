@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working for [Bridged Media](http://bridged.media/)<br>🌱 I’m currently learning **Anything which excites me 😊**<br>👯 I’m looking to collaborate on **Exciting projects**<br>🤝 I’m looking for help with **Personal assistant**<br>👨‍💻 All of my projects are available at [https://www.kushalgohil.com/](https://www.kushalgohil.com/)<br>💬 Ask me about **CSS3, ReactJS**<br>📫 How to reach me **2002kushalgohil@gmail.com**<br>Know about my experiences [https://www.kushalgohil.com/Kushal%20Gohil%20Resume.pdf](https://www.kushalgohil.com/Kushal%20Gohil%20Resume.pdf)<br>⚡ Fun fact **I can beatbox and produce music**<br>
+🌱 I’m currently learning **Anything which excites me 😊**<br>👯 I’m looking to collaborate on **Exciting projects**<br>🤝 I’m looking for help with **Personal assistant**<br>👨‍💻 All of my projects are available at [https://www.kushalgohil.com/](https://www.kushalgohil.com/)<br>💬 Ask me about **CSS3, ReactJS**<br>📫 How to reach me **2002kushalgohil@gmail.com**<br>Know about my experiences [https://www.kushalgohil.com/Kushal%20Gohil%20Resume.pdf](https://www.kushalgohil.com/Kushal%20Gohil%20Resume.pdf)<br>⚡ Fun fact **I can beatbox and produce music**<br>
 
 
 ## 🌐 Socials:
